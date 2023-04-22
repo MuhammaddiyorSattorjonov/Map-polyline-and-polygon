@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map polygon and polyline</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
